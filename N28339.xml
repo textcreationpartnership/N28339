@@ -112,13 +112,13 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037767_0000_100F48CE629EF5F8"/>
-            <pb facs="tcp:037767_0001_100F4806425751C8"/>
+            <pb facs="unknown:037767_0000_100F48CE629EF5F8"/>
+            <pb facs="unknown:037767_0001_100F4806425751C8"/>
             <p>THE WILD YOUTH: A COMEDY FOR DIGESTION, IN THREE ACTS. TRANSLATED FROM THE GERMAN OF KOTZEBUE, BY CHARLES SMITH.</p>
             <p>NEW-YORK: PRINTED FOR CHARLES SMITH AND S. STEPHENS. 1800.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:037767_0002_100F4807DA622E50"/>
+            <pb facs="unknown:037767_0002_100F4807DA622E50"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <item>FREDERICK BARON WELLINGHORST.</item>
@@ -139,7 +139,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:037767_0003_100F480D6F9AC480"/>
+            <pb facs="unknown:037767_0003_100F480D6F9AC480"/>
             <head>THE WILD YOUTH.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -177,7 +177,7 @@
                      <p>A pert thing. The chambermaid I ſuppoſe: I muſt throw a handful of money in her pocket.</p>
                   </sp>
                   <sp>
-                     <pb n="4" facs="tcp:037767_0004_100F480EF978BCF0"/>
+                     <pb n="4" facs="unknown:037767_0004_100F480EF978BCF0"/>
                      <speaker>Molk.</speaker>
                      <stage>(brings coffee)</stage>
                   </sp>
@@ -265,7 +265,7 @@
                      <p>What angel's head?</p>
                   </sp>
                   <sp>
-                     <pb n="5" facs="tcp:037767_0005_100F4810885A07F0"/>
+                     <pb n="5" facs="unknown:037767_0005_100F4810885A07F0"/>
                      <speaker>Fred.</speaker>
                      <p>That Grecian girl, with the beautiful ſwan's neck, and the lily boſom?</p>
                   </sp>
@@ -338,7 +338,7 @@ I ſee a green ſofa, but no one ſits upon it—On the right hand a looking-gla
                      <p>A formal ſiege, my pretty girl: but you make a ſally, and the enemy retreats.</p>
                   </sp>
                   <sp>
-                     <pb n="6" facs="tcp:037767_0006_100F4813C2390010"/>
+                     <pb n="6" facs="unknown:037767_0006_100F4813C2390010"/>
                      <speaker>Liſ.</speaker>
                      <p>Have I hurt you, Sir?</p>
                   </sp>
@@ -448,7 +448,7 @@ I ſee a green ſofa, but no one ſits upon it—On the right hand a looking-gla
                      <p>Not an hour leſs.</p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:037767_0007_100F48154B9A0438"/>
+                     <pb n="7" facs="unknown:037767_0007_100F48154B9A0438"/>
                      <speaker>Liſ.</speaker>
                      <p>Well enough. Eternity is a fine little thing, eſpecially in the mouth of a young gentleman of twenty.</p>
                   </sp>
@@ -540,7 +540,7 @@ There little rogue.</p>
                      <p>Dear child, we muſt not talk too long in ſimilies— Let us ſpeak of my gratitude, which is as eternal as my love.</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:037767_0008_100F4817C198DFE0"/>
+                     <pb n="8" facs="unknown:037767_0008_100F4817C198DFE0"/>
                      <speaker>Liſ.</speaker>
                      <p>I am contented with four weeks.</p>
                   </sp>
@@ -641,7 +641,7 @@ it's a letter without a direction.</p>
                      <p>Chance has made me a Baron, chance has given me two lordly eſtates: what can ſhe have againſt me?</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:037767_0009_100F48195084CE38"/>
+                     <pb n="9" facs="unknown:037767_0009_100F48195084CE38"/>
                      <speaker>Liſ.</speaker>
                      <p>She will ſay, that children muſt not marry.</p>
                   </sp>
@@ -737,7 +737,7 @@ it's a letter without a direction.</p>
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="10" facs="tcp:037767_0010_100F481C62F86480"/>
+                  <pb n="10" facs="unknown:037767_0010_100F481C62F86480"/>
                   <head>SCENE IV.</head>
                   <stage>FELIX <hi>(in his night-gown)</hi> FREDERICK.</stage>
                   <sp>
@@ -838,7 +838,7 @@ it's a letter without a direction.</p>
                      <p>And if her name was Angelica—a name does not make an angel.</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:037767_0011_100F4820108B2350"/>
+                     <pb n="11" facs="unknown:037767_0011_100F4820108B2350"/>
                      <speaker>Fred.</speaker>
                      <p>She is ſcarcely ſixteen.</p>
                   </sp>
@@ -926,7 +926,7 @@ it's a letter without a direction.</p>
                   <sp>
                      <speaker>Fel.</speaker>
                      <p>I played a romance with my wife. I gazed with her at
-<pb n="12" facs="tcp:037767_0012_100F48219B211180"/>
+<pb n="12" facs="unknown:037767_0012_100F48219B211180"/>
 the moon, inſtead of looking into her heart; and at the ſun<g ref="char:EOLhyphen"/>ſhine of reaſon I found that I was moſt egregiouſly miſtaken.</p>
                   </sp>
                   <sp>
@@ -1001,7 +1001,7 @@ the moon, inſtead of looking into her heart; and at the ſun<g ref="char:EOLhyp
                      <p>A friend? you make me proud of this title—but my dear Mr. Felix! why ſhould I be unhappy in my marriage be<g ref="char:EOLhyphen"/>cauſe you was ſo in yours?</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:037767_0013_100F4823D9C10868"/>
+                     <pb n="13" facs="unknown:037767_0013_100F4823D9C10868"/>
                      <speaker>Fel.</speaker>
                      <p>I don't ſay ſo. Many a one has drawn the higheſt prize; but let that romantic fire once be vaniſhed.</p>
                   </sp>
@@ -1074,7 +1074,7 @@ the moon, inſtead of looking into her heart; and at the ſun<g ref="char:EOLhyp
                      <speaker>Fred.</speaker>
                      <p>Is love then a dealer in ſpectacles; or is it better to bor<g ref="char:EOLhyphen"/>row a microſcope from a hypocondriac? he that breaks the ſpecta<g ref="char:EOLhyphen"/>cles of any man, deſerves very little thanks—But, patience! you ſhall ſee Nannette, and be bewitched by her yourſelf. Her ſoft blue eyes, her modeſt graces, her amiable baſhfulneſs, her at<g ref="char:EOLhyphen"/>tractive innocence—formed like a Grecian, blooming like a Circaſſian, the boſom of a Turkiſh, and the teeth of a Mooriſh beauty— <stage>
                            <hi>(A ſervant girl with a bunch of keys, paſſes over
-<pb n="14" facs="tcp:037767_0014_100F48261C568440"/>
+<pb n="14" facs="unknown:037767_0014_100F48261C568440"/>
 the ſtage: Frederick perceives her)</hi>
                         </stage>
 Halt! halt! what a neat creature!—hear, dear little one, do'nt run ſo faſt! Little ſa<g ref="char:EOLhyphen"/>tan! can you not wait?</p>
@@ -1143,7 +1143,7 @@ eight dollars and a piece of gold. This young gentleman pleaſes me. He is as br
                      <p>Who would look on my indifferent hat, and my plain white gown? Indeed, I am aſhamed. Mamma gives me nothing better.</p>
                   </sp>
                   <sp>
-                     <pb n="15" facs="tcp:037767_0015_100F48289FD92708"/>
+                     <pb n="15" facs="unknown:037767_0015_100F48289FD92708"/>
                      <speaker>Liſ.</speaker>
                      <p>Mamma Nature has been the more generous to you.</p>
                   </sp>
@@ -1260,7 +1260,7 @@ eight dollars and a piece of gold. This young gentleman pleaſes me. He is as br
                      <p>When I told him that your name was Nannette, he be<g ref="char:EOLhyphen"/>came ſo enraptured, that he embraced me.</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:037767_0016_100F482AE9B82530"/>
+                     <pb n="16" facs="unknown:037767_0016_100F482AE9B82530"/>
                      <speaker>Nan.</speaker>
                      <p>Was that a token of his love too?</p>
                   </sp>
@@ -1339,7 +1339,7 @@ eight dollars and a piece of gold. This young gentleman pleaſes me. He is as br
                      <p>Good morning little thing. My God! how you look again this morning: Well and blooming like a maid ſer<g ref="char:EOLhyphen"/>vant.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:037767_0017_100F482C739805E8"/>
+                     <pb n="17" facs="unknown:037767_0017_100F482C739805E8"/>
                      <speaker>Nan.</speaker>
                      <p>I ſlept very well.</p>
                   </sp>
@@ -1388,7 +1388,7 @@ A lady of education knows how to be ſick becomingly, and I have thank God, not 
                      <p>Is not that running a riſk? but even that is in his fa<g ref="char:EOLhyphen"/>vor. A woman cannot appear in the world with decency, if ſhe does not always carry an animal in man's cloath with her, and this Piffelburg may do as well as any other. His eſtate, to be ſure, is involved, but he is of an old family and a very honeſt fellow. A certain poliſh, a certain fine feeling, we miſs in him; ſo much the better! nature! nature! nothing excels nature!—Liſette, where are my teeth?</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:037767_0018_100F482F9984D640"/>
+                     <pb n="18" facs="unknown:037767_0018_100F482F9984D640"/>
                      <speaker>Liſ.</speaker>
                      <p>They lay in your apartment.</p>
                   </sp>
@@ -1476,7 +1476,7 @@ A lady of education knows how to be ſick becomingly, and I have thank God, not 
                   </sp>
                </div>
                <div n="7" type="scene">
-                  <pb n="19" facs="tcp:037767_0019_100F4831D4E7D650"/>
+                  <pb n="19" facs="unknown:037767_0019_100F4831D4E7D650"/>
                   <head>SCENE VII.</head>
                   <stage>
                      <hi>Lady</hi> BRUMBACH. <hi>Baron</hi> PIFFELBURG <hi>in a hunting habit.</hi>
@@ -1554,7 +1554,7 @@ A lady of education knows how to be ſick becomingly, and I have thank God, not 
                      <p>My God! how old do you take me to be?</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:037767_0020_100F48342CF87768"/>
+                     <pb n="20" facs="unknown:037767_0020_100F48342CF87768"/>
                      <speaker>Piff.</speaker>
                      <p>Have you not told me that your ſecond huſband was kill<g ref="char:EOLhyphen"/>ed in the ſeven years war?</p>
                   </sp>
@@ -1626,7 +1626,7 @@ There is nothing more unſufferable than to conclude a marriage like a bargain o
                      <p>At midnight! pſhaw! the wild huntſman<note n="*" place="bottom">Alluding to a German ſtory, of the ghoſt of a dead huntſman rioting in the foreſts.</note> riots then.-</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:037767_0021_100F4835CBF8B668"/>
+                     <pb n="21" facs="unknown:037767_0021_100F4835CBF8B668"/>
                      <speaker>Brumb.</speaker>
                      <p>I hope you are not afraid?</p>
                   </sp>
@@ -1718,7 +1718,7 @@ There is nothing more unſufferable than to conclude a marriage like a bargain o
                      <p>There we have it! and yet ſhe wants to walk about at night.</p>
                   </sp>
                   <sp>
-                     <pb n="22" facs="tcp:037767_0022_100F483844DEBFF8"/>
+                     <pb n="22" facs="unknown:037767_0022_100F483844DEBFF8"/>
                      <speaker>Brumb.</speaker>
                      <p>Nannette!—Liſette!—I die—</p>
                   </sp>
@@ -1815,7 +1815,7 @@ Dear crea<g ref="char:EOLhyphen"/>ture, I did'nt mean to offend you.</p>
                      <p>Is he gone indeed? without throwing himſelf at my feet?</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:037767_0023_100F483BE0F74138"/>
+                     <pb n="23" facs="unknown:037767_0023_100F483BE0F74138"/>
                      <speaker>Liſ.</speaker>
                      <p>You will excuſe him, he is a little ſtiff.</p>
                   </sp>
@@ -1901,7 +1901,7 @@ Dear crea<g ref="char:EOLhyphen"/>ture, I did'nt mean to offend you.</p>
                   </sp>
                </div>
                <div n="9" type="scene">
-                  <pb n="24" facs="tcp:037767_0024_100F483D69DAFF10"/>
+                  <pb n="24" facs="unknown:037767_0024_100F483D69DAFF10"/>
                   <head>SCENE IX.</head>
                   <stage>FREDERICK, <hi>(dreſſed like a hair-dreſſer, with a powder-bag un<g ref="char:EOLhyphen"/>der his arm, puts his head into the door.</hi>)</stage>
                   <sp>
@@ -2005,7 +2005,7 @@ Dear crea<g ref="char:EOLhyphen"/>ture, I did'nt mean to offend you.</p>
                         <stage>(bringing the dreſſing-gown.)</stage> My friend, have you been a long while at this trade?</p>
                   </sp>
                   <sp>
-                     <pb n="25" facs="tcp:037767_0025_100F483FA824F270"/>
+                     <pb n="25" facs="unknown:037767_0025_100F483FA824F270"/>
                      <speaker>Fred.</speaker>
                      <p>I hope ſoon to be maſter—
 <stage>(begins dreſſing)</stage>
@@ -2112,7 +2112,7 @@ Dear crea<g ref="char:EOLhyphen"/>ture, I did'nt mean to offend you.</p>
                   </sp>
                   <stage>Nannette opens the letter ſlily.</stage>
                   <sp>
-                     <pb n="26" facs="tcp:037767_0026_100F484134EC4760"/>
+                     <pb n="26" facs="unknown:037767_0026_100F484134EC4760"/>
                      <speaker>Brumb.</speaker>
                      <p>Has the revolution driven you from your country?</p>
                   </sp>
@@ -2219,7 +2219,7 @@ he—miſs, what have you got there?</p>
                      <p>Very fine! ſhe has grey eyes, and freckles in her face.</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:037767_0027_100F4844C81B2648"/>
+                     <pb n="27" facs="unknown:037767_0027_100F4844C81B2648"/>
                      <speaker>Fred.</speaker>
                      <p>
                         <stage>(reads)</stage> "I ſaw you but once, but my heart is yours forever."</p>
@@ -2329,7 +2329,7 @@ he—miſs, what have you got there?</p>
                      <p>Even an elopement? This was yet wanting?— How I ſhall laugh at the old woman! —Is that tender pallaver at an end?</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:037767_0028_100F484652C1A6A8"/>
+                     <pb n="28" facs="unknown:037767_0028_100F484652C1A6A8"/>
                      <speaker>Fred.</speaker>
                      <p>Not a ſyllable more.</p>
                   </sp>
@@ -2434,7 +2434,7 @@ he—miſs, what have you got there?</p>
                      <p>With a bruiſe? I do not underſtand a word of all that.</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:037767_0029_100F484888BB2B20"/>
+                     <pb n="29" facs="unknown:037767_0029_100F484888BB2B20"/>
                      <speaker>Brumb.</speaker>
                      <p>Why then have you ſent your journeyman to me?</p>
                   </sp>
@@ -2506,7 +2506,7 @@ he—miſs, what have you got there?</p>
 Puniſh me now! puniſh in me the power of your attractions!</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:037767_0030_100F484A1F8D2218"/>
+                     <pb n="30" facs="unknown:037767_0030_100F484A1F8D2218"/>
                      <speaker>Brumb.</speaker>
                      <p>My friend, you either tell a lie, or you are a fool. Get up, I pardon you.</p>
                   </sp>
@@ -2591,7 +2591,7 @@ but my heart remains behind!</p>
                   </sp>
                </div>
                <div n="11" type="scene">
-                  <pb n="31" facs="tcp:037767_0031_100F484D29611420"/>
+                  <pb n="31" facs="unknown:037767_0031_100F484D29611420"/>
                   <head>SCENE XI.</head>
                   <stage>In that moment Piffelburg enters, behind him a huntſman with half a dozen hares. Frederick and Liſette throw the hair-dreſſer upon Piffelburg, who puſhes him upon the huntſman, and the latter throws him out of the door.)</stage>
                   <sp>
@@ -2682,7 +2682,7 @@ hail and lightning! are you not the young Baron, in whoſe company I was laſt e
                      <p>Have we not been very merry together?</p>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:037767_0032_100F484F6C074550"/>
+                     <pb n="32" facs="unknown:037767_0032_100F484F6C074550"/>
                      <speaker>Fred.</speaker>
                      <p>God knows who made himſelf merry with you.</p>
                   </sp>
@@ -2783,7 +2783,7 @@ hail and lightning! are you not the young Baron, in whoſe company I was laſt e
                   </sp>
                </div>
                <div n="12" type="scene">
-                  <pb n="33" facs="tcp:037767_0033_100F4851ACB461B8"/>
+                  <pb n="33" facs="unknown:037767_0033_100F4851ACB461B8"/>
                   <head>SCENE XII.</head>
                   <sp>
                      <speaker>PIFFELBURG</speaker>
@@ -2863,7 +2863,7 @@ hail and lightning! are you not the young Baron, in whoſe company I was laſt e
                      <p>'Twas my day of honor.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:037767_0036_100F48538A34B778"/>
+                     <pb n="34" facs="unknown:037767_0036_100F48538A34B778"/>
                      <speaker>Liſ.</speaker>
                      <p>Ha! ha! ha! men are fooliſh beings. A ſoldier looſes a leg—that's his day of honor. A girl bends her neck to the yoke of matrimony—that's her day of honor. A nun takes the veil—that's her day of honor. The firſt receives a medal, the ſecond a huſband, and the third nothing at all. It's a good thing that putting on of foolſcaps has got out of faſhion. Every man is a fool; is it not true, Molkus?</p>
                   </sp>
@@ -2950,7 +2950,7 @@ hail and lightning! are you not the young Baron, in whoſe company I was laſt e
                      <p>And if it was not for the women, my God, who then would put your heads to rights?</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:037767_0034_100F485B04453F18"/>
+                     <pb n="33" facs="unknown:037767_0034_100F485B04453F18"/>
                      <speaker>Molk.</speaker>
                      <p>I can.</p>
                   </sp>
@@ -3070,7 +3070,7 @@ hail and lightning! are you not the young Baron, in whoſe company I was laſt e
                         <stage>(takes it up again coolly)</stage> If you do that again—</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:037767_0037_100F485C922AC1C0"/>
+                     <pb n="34" facs="unknown:037767_0037_100F485C922AC1C0"/>
                      <speaker>Liſ.</speaker>
                      <p>Well, and what then?</p>
                   </sp>
@@ -3157,7 +3157,7 @@ hail and lightning! are you not the young Baron, in whoſe company I was laſt e
                   <stage>(knocking at the door.)</stage>
                </div>
                <div n="2" type="scene">
-                  <pb n="35" facs="tcp:037767_0038_100F48572D4B8520"/>
+                  <pb n="35" facs="unknown:037767_0038_100F48572D4B8520"/>
                   <head>SCENE II.</head>
                   <stage>
                      <hi>Enter</hi> BRUMBACH, NANNETTE.</stage>
@@ -3250,7 +3250,7 @@ hail and lightning! are you not the young Baron, in whoſe company I was laſt e
                      <p>This would be the fineſt opportunity to ſpeak to your lover.</p>
                   </sp>
                   <sp>
-                     <pb n="36" facs="tcp:037767_0039_100F4858B7AD72D0"/>
+                     <pb n="36" facs="unknown:037767_0039_100F4858B7AD72D0"/>
                      <speaker>Nan.</speaker>
                      <p>Do you think ſo?</p>
                   </sp>
@@ -3368,7 +3368,7 @@ hail and lightning! are you not the young Baron, in whoſe company I was laſt e
                      <p>Dear, charming Molkus, can you refuſe me any thing?</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:037767_0035_100F485F9864F6F0"/>
+                     <pb n="35" facs="unknown:037767_0035_100F485F9864F6F0"/>
                      <speaker>Molk.</speaker>
                      <p>I have two senses, for I just hear the knocking at the door.</p>
                   </sp>
@@ -3457,7 +3457,7 @@ Who is there?</p>
                      <p>And Prince Ferdinand of Prussia repulsed them.</p>
                   </sp>
                   <sp>
-                     <pb n="36" facs="tcp:037767_0040_100F48628DA89CD0"/>
+                     <pb n="36" facs="unknown:037767_0040_100F48628DA89CD0"/>
                      <speaker>Fred.</speaker>
                      <p>And when they afterwards made a trial on the side of Wisherad.</p>
                   </sp>
@@ -3552,7 +3552,7 @@ hark there! halloo! where is the enemy! Come out of your holes!</p>
                      <p>At Collin, under General Hulsen, I helped to attack the burying ground.</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:037767_0041_100F486417385DD0"/>
+                     <pb n="37" facs="unknown:037767_0041_100F486417385DD0"/>
                      <speaker>Fred.</speaker>
                      <p>I was in the brigade of Manstein.</p>
                   </sp>
@@ -3641,7 +3641,7 @@ hark there! halloo! where is the enemy! Come out of your holes!</p>
                         <stage>(beginning to feel the power of the wine)</stage> Two tongues would be better for him.</p>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:037767_0042_100F48677B2DE700"/>
+                     <pb n="38" facs="unknown:037767_0042_100F48677B2DE700"/>
                      <speaker>Fred.</speaker>
                      <p>A man with a sound pair of arms, must fight. For that reason I entered into the Hessian service.</p>
                   </sp>
@@ -3729,7 +3729,7 @@ Now we want to get upon this tack—but there comes a wave, and throws us straig
                   </sp>
                </div>
                <div n="5" type="scene">
-                  <pb n="39" facs="tcp:037767_0043_100F4869C483E628"/>
+                  <pb n="39" facs="unknown:037767_0043_100F4869C483E628"/>
                   <head>SCENE V.</head>
                   <stage>
                      <hi>Enter</hi> LISETTE. <hi>Soon after,</hi> NANNETTE.</stage>
@@ -3846,7 +3846,7 @@ Now we want to get upon this tack—but there comes a wave, and throws us straig
                      <p>But when a Pandor sees a pretty girl, for instance you, Lisette.</p>
                   </sp>
                   <sp>
-                     <pb n="40" facs="tcp:037767_0044_100F486B4DE89F88"/>
+                     <pb n="40" facs="unknown:037767_0044_100F486B4DE89F88"/>
                      <speaker>Liſ.</speaker>
                      <p>Well?</p>
                   </sp>
@@ -3966,7 +3966,7 @@ Now we want to get upon this tack—but there comes a wave, and throws us straig
                         <stage>(embracing Nannette)</stage> Heavenly girl.</p>
                   </sp>
                   <sp>
-                     <pb n="41" facs="tcp:037767_0045_100F486D34D5BDD8"/>
+                     <pb n="41" facs="unknown:037767_0045_100F486D34D5BDD8"/>
                      <speaker>Molk.</speaker>
                      <p>
                         <stage>(ſeeing it)</stage> Aye! aye! comrade!</p>
@@ -4082,7 +4082,7 @@ Now we want to get upon this tack—but there comes a wave, and throws us straig
                         <stage>(to Liſette)</stage> Come then, little bride, let us go to sleep.</p>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:037767_0046_100F487029D52310"/>
+                     <pb n="42" facs="unknown:037767_0046_100F487029D52310"/>
                      <speaker>Brumb.</speaker>
                      <p>Are you crazy?</p>
                   </sp>
@@ -4183,7 +4183,7 @@ can you swear?</p>
                   <sp>
                      <speaker>Liſ.</speaker>
                      <p>Why not? I should like to know, how any body could have entered here? Has not this drunken fellow been constantly sitting at the door<g ref="char:punc">▪</g> Has he not smoked us with
-<pb n="43" facs="tcp:037767_0047_100F48726FD76BD8"/>
+<pb n="43" facs="unknown:037767_0047_100F48726FD76BD8"/>
 his tobacco and brandy, it stinks here just like a guard-room.</p>
                   </sp>
                   <sp>
@@ -4273,7 +4273,7 @@ his tobacco and brandy, it stinks here just like a guard-room.</p>
                      <p>To marry? What are you thinking, Miss? They come, they gaze; they love; they burn; first a flame, then coals, then cinders. Woe to the girl, that makes a cinder barrel of her heart.</p>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:037767_0048_100F4874AB484E98"/>
+                     <pb n="44" facs="unknown:037767_0048_100F4874AB484E98"/>
                      <speaker>Brumb.</speaker>
                      <p>Right Lisette, explain that chapter a little to her before you go to sleep, away to bed!</p>
                   </sp>
@@ -4300,7 +4300,7 @@ Confess it only, Salomeh, you wish a good termination of the Romance, for the di
                      <p>Hush! hush!—all is quiet—all darkness—I may venture—
 <stage>(he creeps through the window, the wooden leg is left behind.)</stage>
 Here I am again. But what more?—
-<pb n="45" facs="tcp:037767_0049_100F487669AC78E8"/>
+<pb n="45" facs="unknown:037767_0049_100F487669AC78E8"/>
 It is so dark that one can't see the hand before ones face.— On the right hand is the door,
 <stage>(he fumbles about)</stage>
 hush! hush!</p>
@@ -4403,7 +4403,7 @@ I hold you in my arms and no power of earth shall tear me from you again!</p>
                         <stage>(to Molkus)</stage> Set your candle down and be off with you.</p>
                   </sp>
                   <sp>
-                     <pb n="46" facs="tcp:037767_0050_100F4879718D2288"/>
+                     <pb n="46" facs="unknown:037767_0050_100F4879718D2288"/>
                      <speaker>Molk.</speaker>
                      <p>Do but tell me comrade, where you got this leg from? procure me mine too.</p>
                   </sp>
@@ -4471,7 +4471,7 @@ I hold you in my arms and no power of earth shall tear me from you again!</p>
                      <p>I grew up and entered into military service.—I have fought in Russia against the Turks, and in Flanders against the French—The scars on my face are proofs of my valour.</p>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:037767_0051_100F487BB6DBABB0"/>
+                     <pb n="47" facs="unknown:037767_0051_100F487BB6DBABB0"/>
                      <speaker>Brumb.</speaker>
                      <p>Was not your father moved by that?</p>
                   </sp>
@@ -4533,7 +4533,7 @@ I promise you, to do something for you.</p>
                      <p>No! no! I will ascribe it all to your power, and nothing to the impulse of nature. Permit me to take my leave.</p>
                   </sp>
                   <sp>
-                     <pb n="48" facs="tcp:037767_0052_100F487DF579D990"/>
+                     <pb n="48" facs="unknown:037767_0052_100F487DF579D990"/>
                      <speaker>Brumb.</speaker>
                      <p>No, no, you shall stay.</p>
                   </sp>
@@ -4625,7 +4625,7 @@ I promise you, to do something for you.</p>
                      <p>Will you continue to shut up your heart against nature's tender feelings?</p>
                   </sp>
                   <sp>
-                     <pb n="49" facs="tcp:037767_0053_100F48805C478080"/>
+                     <pb n="49" facs="unknown:037767_0053_100F48805C478080"/>
                      <speaker>Piff.</speaker>
                      <p>The fellow is a fool, and makes a fool of me.</p>
                   </sp>
@@ -4693,7 +4693,7 @@ Stop a little, I'll plague you more yet. <stage>Exit.</stage>
                      <p>I declare it once more, that St. Hubertus may know that better than I. He is a pretty fellow indeed, he has made fine progress in villainy. Who can know what he is aiming at.</p>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:037767_0054_100F488293850260"/>
+                     <pb n="50" facs="unknown:037767_0054_100F488293850260"/>
                      <speaker>Brumb.</speaker>
                      <p>But if he throws himself into the water?</p>
                   </sp>
@@ -4783,7 +4783,7 @@ Lisette? are you in your bed?</p>
                      <p>Here in this house—he was so friendly—so com<g ref="char:EOLhyphen"/>plaisant—</p>
                   </sp>
                   <sp>
-                     <pb n="51" facs="tcp:037767_0055_100F488513ECEFD8"/>
+                     <pb n="51" facs="unknown:037767_0055_100F488513ECEFD8"/>
                      <speaker>Brumb.</speaker>
                      <p>And how do you know him to be the son of Baron Piffelberg?</p>
                   </sp>
@@ -4853,7 +4853,7 @@ Lisette? are you in your bed?</p>
                   </sp>
                </div>
                <div n="13" type="scene">
-                  <pb n="52" facs="tcp:037767_0056_100F48874E8FD050"/>
+                  <pb n="52" facs="unknown:037767_0056_100F48874E8FD050"/>
                   <head>SCENE XIII.</head>
                   <stage>
                      <hi>Enter</hi> FREDERIC <hi>(dressed in women's clothes, with a veil over his face.)</hi>
@@ -4926,7 +4926,7 @@ Lisette? are you in your bed?</p>
                      <p>Woman! I'll tear your scandalous tongue out of your throat!</p>
                   </sp>
                   <sp>
-                     <pb n="53" facs="tcp:037767_0057_100F4888DA449FE8"/>
+                     <pb n="53" facs="unknown:037767_0057_100F4888DA449FE8"/>
                      <speaker>Brumb.</speaker>
                      <p>Stop, Sir! I take her under my protection.</p>
                   </sp>
@@ -4997,7 +4997,7 @@ and let her out of the back door, here is the key.</p>
                      <p>Do but examine first.</p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:037767_0058_100F488B180DEDB0"/>
+                     <pb n="54" facs="unknown:037767_0058_100F488B180DEDB0"/>
                      <speaker>Brumb.</speaker>
                      <p>What is there to examine? here a son and there a a mistress.</p>
                   </sp>
@@ -5083,7 +5083,7 @@ and let her out of the back door, here is the key.</p>
                      <p>So! I thought it was all over between us?</p>
                   </sp>
                   <sp>
-                     <pb n="55" facs="tcp:037767_0059_100F488EABEC1C30"/>
+                     <pb n="55" facs="unknown:037767_0059_100F488EABEC1C30"/>
                      <speaker>Brumb.</speaker>
                      <p>I have wronged you, forgive an unfortunate de<g ref="char:EOLhyphen"/>ceived mother.</p>
                   </sp>
@@ -5164,7 +5164,7 @@ and let her out of the back door, here is the key.</p>
                      <p>She most likely, had a faded heart and not a drop of blood.</p>
                   </sp>
                   <sp>
-                     <pb n="56" facs="tcp:037767_0060_100F4890378ADB58"/>
+                     <pb n="56" facs="unknown:037767_0060_100F4890378ADB58"/>
                      <speaker>Nann.</speaker>
                      <p>Pray, fetch a light.</p>
                   </sp>
@@ -5261,7 +5261,7 @@ and let her out of the back door, here is the key.</p>
                      <p>Singular girl! If a girl runs away with a man, she may as well go to his room too.</p>
                   </sp>
                   <sp>
-                     <pb n="57" facs="tcp:037767_0061_100F48926BF7A168"/>
+                     <pb n="57" facs="unknown:037767_0061_100F48926BF7A168"/>
                      <speaker>Nann.</speaker>
                      <p>Have I then run away with you? ah! that was stupid of me.</p>
                   </sp>
@@ -5352,7 +5352,7 @@ and let her out of the back door, here is the key.</p>
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="58" facs="tcp:037767_0062_100F48940EF869A8"/>
+                  <pb n="58" facs="unknown:037767_0062_100F48940EF869A8"/>
                   <head>SCENE II.</head>
                   <sp>
                      <speaker>LADY BRUMBACH</speaker>
@@ -5423,7 +5423,7 @@ No, all is quiet—My God! how much anxiety and grief this wicked girl of mine, 
                      <p>You must at day-break throw yourself at her mo<g ref="char:EOLhyphen"/>ther's feet, and beg for her blessing.</p>
                   </sp>
                   <sp>
-                     <pb n="59" facs="tcp:037767_0063_100F4897B2281E50"/>
+                     <pb n="59" facs="unknown:037767_0063_100F4897B2281E50"/>
                      <speaker>Fred.</speaker>
                      <p>Willingly! willingly!</p>
                   </sp>
@@ -5501,7 +5501,7 @@ No, all is quiet—My God! how much anxiety and grief this wicked girl of mine, 
                      <p>This was the old one.</p>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:037767_0064_100F48993ACD11F0"/>
+                     <pb n="60" facs="unknown:037767_0064_100F48993ACD11F0"/>
                      <speaker>Fel.</speaker>
                      <p>How am I—Methinks I know the voice.</p>
                   </sp>
@@ -5544,7 +5544,7 @@ from what beautiful breast does this h'm proceed?—No answer?— Hush? hush!</p
                      <p>Hush! hush!</p>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:037767_0065_100F489B7270FAA8"/>
+                     <pb n="61" facs="unknown:037767_0065_100F489B7270FAA8"/>
                      <speaker>Fred.</speaker>
                      <p>What beautiful lips does this hush come from?</p>
                   </sp>
@@ -5642,7 +5642,7 @@ from what beautiful breast does this h'm proceed?—No answer?— Hush? hush!</p
                      <p>It is good for nothing, where love does not make the impression. Jest aside, Baron, I enter into your service. 'Tis but just, for you have brought me into this dilemma.</p>
                   </sp>
                   <sp>
-                     <pb n="62" facs="tcp:037767_0066_100F489D1F5CEE40"/>
+                     <pb n="62" facs="unknown:037767_0066_100F489D1F5CEE40"/>
                      <speaker>Ferd.</speaker>
                      <p>Well then, I will get you out of it.</p>
                   </sp>
@@ -5710,7 +5710,7 @@ Now I'll creep about the house, like a ghost. I will hear eve<g ref="char:EOLhyp
                   <sp>
                      <speaker>Molk.</speaker>
                      <p>I would rather pursue a hare than a lover who runs away with his girl. A race horse has but four legs, but such a fellow has wings.—I have been running about half the night
-<pb n="63" facs="tcp:037767_0067_100F48A0AC9C5578"/>
+<pb n="63" facs="unknown:037767_0067_100F48A0AC9C5578"/>
 in wind and rain. My sound leg is tired, and the wooden one covered with mud. I can do no more. For me they may run to the Arabian deserts, and eat Locusts, like St. John.—If I go to the old dragon and make my report, I shall jump out of the frying pan into the fire. I'll rather encamp here for the night, no matter how it goes. <stage>(he ſits down upon an arm chair)</stage>
 Hang it! it is as soft as if it had been made for a gouty man.— Thank God, I can have the gout but in one leg—Ah! now I feel again comfortable and warm — <stage>(gaps)</stage>
 and powerful sleep is creeping on. — It an't a bed, to be sure, — but after such a fatigue — When in the seven years war, — I stood on an out-post — there sometimes I would — lay on my musket — and nod— nod—. <stage>(he murmurs a few more unintelligible words, and then falls asleep.)</stage>
@@ -5738,7 +5738,7 @@ Aye, aye, here is a chair. Now let us try whether an old huntsman, after such a 
                      <p>Thunder and lightning! what's that?</p>
                   </sp>
                   <sp>
-                     <pb n="64" facs="tcp:037767_0068_100F48A236735C90"/>
+                     <pb n="64" facs="unknown:037767_0068_100F48A236735C90"/>
                      <speaker>Molk.</speaker>
                      <p>
                         <stage>(encircles him with both his arms)</stage> I have him! I have him!</p>
@@ -5834,7 +5834,7 @@ Aye, aye, here is a chair. Now let us try whether an old huntsman, after such a 
                      <p>But if I should know it?</p>
                   </sp>
                   <sp>
-                     <pb n="65" facs="tcp:037767_0069_100F48A4D896E430"/>
+                     <pb n="65" facs="unknown:037767_0069_100F48A4D896E430"/>
                      <speaker>Piff.</speaker>
                      <p>You?</p>
                   </sp>
@@ -5947,7 +5947,7 @@ Aye, aye, here is a chair. Now let us try whether an old huntsman, after such a 
                      <p>See now, I think so: be attentive. If you both go into the wardrobe, and the young lady does <hi>not</hi> come there—</p>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:037767_0070_100F48A737B90F78"/>
+                     <pb n="66" facs="unknown:037767_0070_100F48A737B90F78"/>
                      <speaker>Molk.</speaker>
                      <p>Then we wait in vain.</p>
                   </sp>
@@ -6032,7 +6032,7 @@ Aye, aye, here is a chair. Now let us try whether an old huntsman, after such a 
                      <p>How so?</p>
                   </sp>
                   <sp>
-                     <pb n="67" facs="tcp:037767_0071_100F48AA218D9D68"/>
+                     <pb n="67" facs="unknown:037767_0071_100F48AA218D9D68"/>
                      <speaker>Brumb.</speaker>
                      <p>I have heard a strange noise.</p>
                   </sp>
@@ -6142,7 +6142,7 @@ Aye, aye, here is a chair. Now let us try whether an old huntsman, after such a 
                      <p>There I step up?</p>
                   </sp>
                   <sp>
-                     <pb n="68" facs="tcp:037767_0072_100F48ABAD8175B8"/>
+                     <pb n="68" facs="unknown:037767_0072_100F48ABAD8175B8"/>
                      <speaker>Fred.</speaker>
                      <p>No, no, you step down, and then you are all at once in the yard.</p>
                   </sp>
@@ -6220,7 +6220,7 @@ Aye, aye, here is a chair. Now let us try whether an old huntsman, after such a 
                      <p>I have her! I have her!</p>
                   </sp>
                   <sp>
-                     <pb n="69" facs="tcp:037767_0073_100F48ADE91FD118"/>
+                     <pb n="69" facs="unknown:037767_0073_100F48ADE91FD118"/>
                      <speaker>Brumb.</speaker>
                      <p>Help! Help!</p>
                   </sp>
@@ -6302,7 +6302,7 @@ Aye, aye, here is a chair. Now let us try whether an old huntsman, after such a 
                   <sp>
                      <speaker>Brumb.</speaker>
                      <p>I am quite petrified. All three of you I have sent
-<pb n="70" facs="tcp:037767_0074_100F48B04CE6EEC8"/>
+<pb n="70" facs="unknown:037767_0074_100F48B04CE6EEC8"/>
 out, and now find you at home? My pretty Baron Piffelburg, what business have you in the wardrobe?</p>
                   </sp>
                   <sp>
@@ -6360,7 +6360,7 @@ out, and now find you at home? My pretty Baron Piffelburg, what business have yo
                   </sp>
                </div>
                <div n="12" type="scene">
-                  <pb n="71" facs="tcp:037767_0075_100F48B28DB5DF58"/>
+                  <pb n="71" facs="unknown:037767_0075_100F48B28DB5DF58"/>
                   <head>SCENE XII.</head>
                   <stage>
                      <hi>Enters</hi> FREDERIC <hi>(in his proper appearance.)</hi>
@@ -6460,7 +6460,7 @@ out, and now find you at home? My pretty Baron Piffelburg, what business have yo
                      <p>Well Madame! I shall lay here till the sun extin<g ref="char:EOLhyphen"/>guishes, and the earth is torn from its poles.</p>
                   </sp>
                   <sp>
-                     <pb n="72" facs="tcp:037767_0076_100F48B4D07103D0"/>
+                     <pb n="72" facs="unknown:037767_0076_100F48B4D07103D0"/>
                      <speaker>Brumb.</speaker>
                      <p>Be sparing with your hyperboles. I shall never give my daughter to a man, who begins his suite by depriv<g ref="char:EOLhyphen"/>ing an innocent girl of her honor.</p>
                   </sp>
@@ -6541,7 +6541,7 @@ Come Nannette! come dear Mr. Felix! assist me in softening the obdurate ma<g ref
                      <p>Did not I go out of your way?</p>
                   </sp>
                   <sp>
-                     <pb n="73" facs="tcp:037767_0077_100F48B727DC44F8"/>
+                     <pb n="73" facs="unknown:037767_0077_100F48B727DC44F8"/>
                      <speaker>Liſ.</speaker>
                      <p>
                         <stage>(aſide)</stage> Now she has all at once a husband.</p>
@@ -6614,7 +6614,7 @@ Come Nannette! come dear Mr. Felix! assist me in softening the obdurate ma<g ref
                      <p>Nor I neither.</p>
                   </sp>
                   <sp>
-                     <pb n="74" facs="tcp:037767_0078_100F48B972C329B8"/>
+                     <pb n="74" facs="unknown:037767_0078_100F48B972C329B8"/>
                      <speaker>Brumb.</speaker>
                      <p>Then, <hi>mes chers enfans,</hi> I will not withhold from you my blessing any longer.</p>
                   </sp>
